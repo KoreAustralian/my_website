@@ -1,18 +1,20 @@
-# 포트폴리오 웹사이트
+# Portfolio Website
 
-개인 포트폴리오 웹사이트입니다.
+Personal portfolio website.
 
-## 기능
+## Features
 
-- 반응형 디자인
-- LinkedIn 및 GitHub 링크
-- 포트폴리오 섹션 (추가 예정)
-- 부드러운 스크롤 애니메이션
+- Responsive design
+- LinkedIn and GitHub links
+- Portfolio section with project cards
+- Smooth scroll animations
+
+## Usage
 
 ## 사용 방법
 
-1. `index.html` 파일을 웹 브라우저에서 열기
-2. 또는 로컬 서버를 통해 실행:
+1. Open `index.html` in a web browser directly, or
+2. Run a local server:
    ```bash
    # Python 3
    python -m http.server 8000
